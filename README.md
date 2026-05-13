@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Backend-focused+Full-Stack+Engineer;MERN+%7C+PHP+%7C+Laravel+Developer;Shopify+%26+WordPress+Specialist;Automation+%26+Workflow+Builder;Always+shipping%2C+always+learning&font=Fira%20Code&center=true&width=480&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" alt="Typing SVG" /></a>
 </p>
 
-<!-- Social icons -->
+<!-- Social icons
 <p align="center">
   <a href="mailto:ashar.dev19@gmail.com"><img width="32px" alt="Email" title="Email me" src="https://i.imgur.com/NA4xRPj.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -16,7 +16,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/"><img width="32px" alt="GitHub" title="GitHub" src="https://i.imgur.com/4exgaC8.png"/></a>
 </p>
-
+ -->
 <br/>
 
 <!-- Profile badges -->
