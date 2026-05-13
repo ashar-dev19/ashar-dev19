@@ -5,10 +5,11 @@
 <p align="center">
   <!-- Typing SVG -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Backend-focused+Full-Stack+Engineer;MERN+%7C+PHP+%7C+Laravel+Developer;Shopify+%26+WordPress+Specialist;Automation+%26+Workflow+Builder;Always+shipping%2C+always+learning&font=Fira%20Code&center=true&width=480&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Backend-focused+Full-Stack+Engineer;AI-Driven+Development+with+Claude+%26+Cursor;MERN+%7C+PHP+%7C+Laravel+Developer;Shopify+%26+WordPress+Specialist;Automation+%26+Workflow+Builder;Always+shipping%2C+always+learning&font=Fira%20Code&center=true&width=520&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" alt="Typing SVG" /></a>
 </p>
 
-<!-- Social icons
+<!-- Social icons -->
+<!--
 <p align="center">
   <a href="mailto:ashar.dev19@gmail.com"><img width="32px" alt="Email" title="Email me" src="https://i.imgur.com/NA4xRPj.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -16,7 +17,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/"><img width="32px" alt="GitHub" title="GitHub" src="https://i.imgur.com/4exgaC8.png"/></a>
 </p>
- -->
+-->
+
 <br/>
 
 <!-- Profile badges -->
@@ -35,13 +37,14 @@
   <summary><h2>👨‍💻 About Me</h2></summary>
 
   <p>
-    I'm a backend-focused full-stack engineer with <b>3+ years</b> of hands-on experience building scalable web applications, REST APIs, and automation workflows. I enjoy designing clean database schemas, wiring up payment systems, and stitching together third-party services so businesses can stop doing things by hand.
+    I'm a backend-focused full-stack engineer with <b>3+ years</b> of hands-on experience building scalable web applications, REST APIs, and automation workflows. I take an <b>AI-driven approach</b> to development — pairing daily with <b>Claude</b> and <b>Cursor</b> to architect systems faster, write cleaner code, and ship features without compromising on quality.
   </p>
 
   <ul>
-    <li>🔭 Currently working on <b>backend systems, e-commerce integrations, and automation pipelines</b></li>
-    <li>🌱 Always learning — recently exploring <b>AI-driven product features</b> and <b>system design at scale</b></li>
-    <li>💬 Ask me about <b>Laravel, Node.js, Shopify, payment gateways, or n8n workflows</b></li>
+    <li>🤖 <b>AI-first workflow</b> — Claude for architecture, code review, and complex problem-solving; Cursor as my daily driver IDE</li>
+    <li>🔭 Currently building <b>backend systems, AI-integrated e-commerce platforms, and automation pipelines</b></li>
+    <li>🌱 Exploring <b>LLM-powered product features</b>, <b>RAG pipelines</b>, and <b>agentic workflows</b></li>
+    <li>💬 Ask me about <b>Laravel, Node.js, Shopify, payment gateways, n8n, or AI-assisted development</b></li>
     <li>⚡ Fun fact: I genuinely like writing SQL queries</li>
     <li>📫 Reach me at <a href="mailto:ashar.dev19@gmail.com"><b>ashar.dev19@gmail.com</b></a></li>
   </ul>
@@ -49,6 +52,18 @@
 
 <details open>
   <summary><h2>🛠️ Tech Stack & Tools</h2></summary>
+
+  <h3>🤖 AI-Powered Development</h3>
+
+  <p>
+    <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757.svg?logo=anthropic&logoColor=white"/>
+    <img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000.svg?logo=cursor&logoColor=white"/>
+    <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-000000.svg?logo=githubcopilot&logoColor=white"/>
+    <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74aa9c.svg?logo=openai&logoColor=white"/>
+    <img alt="Anthropic API" src="https://img.shields.io/badge/Anthropic%20API-D97757.svg?logo=anthropic&logoColor=white"/>
+    <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI%20API-412991.svg?logo=openai&logoColor=white"/>
+    <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C.svg?logo=langchain&logoColor=white"/>
+  </p>
 
   <h3>💻 Languages</h3>
 
@@ -130,6 +145,14 @@
 
 <details open>
   <summary><h2>🚀 What I Do</h2></summary>
+
+  <h3>🤖 AI-Driven Development</h3>
+  <ul>
+    <li>Building full-stack applications using an <b>AI-augmented workflow</b> — Claude and Cursor are core to how I architect, scaffold, debug, and refactor.</li>
+    <li>Using <b>Claude</b> for system design discussions, complex problem-solving, code review, and turning vague requirements into shippable specs.</li>
+    <li>Using <b>Cursor</b> as my primary IDE for AI-native pair programming — context-aware edits, multi-file refactors, and faster iteration cycles.</li>
+    <li>Integrating <b>LLM APIs (Anthropic, OpenAI)</b> into products — chatbots, smart search, content generation, recommendation features, and AI-driven automations.</li>
+  </ul>
 
   <h3>🔧 Backend Engineering & APIs</h3>
   <ul>
@@ -214,7 +237,7 @@
 <br/>
 
 <p align="center">
-  <i>💬 Open to freelance work, collaborations, and interesting backend problems.<br/>
+  <i>💬 Open to freelance work, collaborations, and AI-driven full-stack projects.<br/>
   📬 <a href="mailto:ashar.dev19@gmail.com">ashar.dev19@gmail.com</a></i>
 </p>
 
