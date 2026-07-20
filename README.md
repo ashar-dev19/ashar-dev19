@@ -5,7 +5,7 @@
 <p align="center">
   <!-- Typing SVG -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Backend-focused+Full-Stack+Engineer;AI-Driven+Development+with+Claude+%26+Cursor;MERN+%7C+PHP+%7C+Laravel+Developer;Shopify+%26+WordPress+Specialist;Automation+%26+Workflow+Builder;Always+shipping%2C+always+learning&font=Fira%20Code&center=true&width=520&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Backend-focused+Full-Stack+Engineer;AI-Driven+Development+with+Claude+%26+Cursor;MERN+%7C+PHP+%7C+Laravel+Developer;Shopify+%26+WordPress+Specialist;Automation+%26+Workflow+Builder;Always+shipping%2C+always+learning&font=Fira%20Code&center=true&width=620&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons -->
