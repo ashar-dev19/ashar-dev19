@@ -24,11 +24,11 @@
 <!-- Profile badges -->
 <p align="center">
   <a href="https://github.com/">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/asherfaisal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ashar-dev19?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/asherfaisal?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ashar-dev19?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/">
-    <img alt="profile views" title="Profile views" src="https://komarev.com/ghpvc/?username=asherfaisal&style=for-the-badge&color=blueviolet"/></a>
+    <img alt="profile views" title="Profile views" src="https://komarev.com/ghpvc/?username=ashar-dev19&style=for-the-badge&color=blueviolet"/></a>
 </p>
 
 <br/>
@@ -189,31 +189,31 @@
   <h3>🔥 Streak Stats</h3>
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="GitHub streak" alt="Asher's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=asherfaisal&theme=tokyonight&hide_border=true&short_numbers=true"/>
+      <img title="GitHub streak" alt="Asher's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=ashar-dev19&theme=tokyonight&hide_border=true&short_numbers=true"/>
     </a>
   </p>
 
   <h3>💻 Profile Stats</h3>
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Asher's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=asherfaisal&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180px"/>
+      <img alt="Asher's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=ashar-dev19&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180px"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Asher's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asherfaisal&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+      <img alt="Asher's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashar-dev19&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
     </a>
   </p>
 
   <h3>📈 Activity Graph</h3>
   <p>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img alt="Asher's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=asherfaisal&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+      <img alt="Asher's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ashar-dev19&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
     </a>
   </p>
 
   <h3>🏆 Trophies</h3>
   <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img alt="Asher's Trophies" src="https://github-profile-trophy.vercel.app/?username=asherfaisal&theme=tokyonight&no-frame=true&row=1&column=7"/>
+      <img alt="Asher's Trophies" src="https://github-profile-trophy.vercel.app/?username=ashar-dev19&theme=tokyonight&no-frame=true&row=1&column=7"/>
     </a>
   </p>
 </details>
@@ -242,5 +242,5 @@
 </p>
 
 <p align="center">
-  <i>⭐ From <a href="https://github.com/asherfaisal">asherfaisal</a></i>
+  <i>⭐ From <a href="https://github.com/ashar-dev19">ashar-dev19</a></i>
 </p>
