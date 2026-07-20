@@ -193,27 +193,10 @@
     </a>
   </p>
 
-  <h3>💻 Profile Stats</h3>
-  <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Asher's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=ashar-dev19&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180px"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Asher's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashar-dev19&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
-    </a>
-  </p>
-
   <h3>📈 Activity Graph</h3>
   <p>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
       <img alt="Asher's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ashar-dev19&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-    </a>
-  </p>
-
-  <h3>🏆 Trophies</h3>
-  <p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img alt="Asher's Trophies" src="https://github-profile-trophy.vercel.app/?username=ashar-dev19&theme=tokyonight&no-frame=true&row=1&column=7"/>
     </a>
   </p>
 </details>
