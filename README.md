@@ -221,9 +221,9 @@
 <details>
   <summary><h2>🎓 Education</h2></summary>
 
-  <ul>
-    <li>🎓 <b>Bachelor in Computer Science</b> — graduated with a strong foundation in algorithms, databases, software engineering, and system design.</li>
-  </ul>
+  <p>
+    🎓 <b>Bachelor in Computer Science</b> — graduated with a strong foundation in algorithms, databases, software engineering, and system design.
+  </p>
 </details>
 
 <details>
